@@ -1,4 +1,4 @@
-# Tvorba užívateľských rozhraní projekt
+# Tvorba užívateľských rozhraní
 
 ### Týmový projekt
 
